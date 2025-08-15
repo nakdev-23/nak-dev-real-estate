@@ -1,0 +1,43 @@
+# Real Estate Web Application
+
+Thank you for choosing our real estate web application!
+
+## Package Contents
+- Complete source code
+- Documentation files (README.md, CUSTOMIZATION_GUIDE.md, etc.)
+- Configuration files
+- Sample data and images
+
+## Getting Started
+
+### Prerequisites
+- Node.js version 18 or later
+- npm (comes with Node.js)
+
+### Quick Start
+1. Extract the zip file to a folder on your computer
+2. Open Terminal (Mac/Linux) or Command Prompt (Windows)
+3. Navigate to the extracted folder
+4. Run the following commands:
+   ```
+   npm install
+   npm run dev
+   ```
+5. Open your web browser and go to http://localhost:3000
+
+### Alternative Startup Scripts
+- On Mac/Linux: Run `./start.sh`
+- On Windows: Run `start.bat`
+
+## Documentation
+Please refer to the following files for detailed information:
+- README.md - Complete project documentation
+- PROJECT_SUMMARY.md - Feature overview
+- CUSTOMIZATION_GUIDE.md - Instructions for customization
+- CHANGELOG.md - Version history
+
+## Support
+For questions or customization requests, please contact our support team.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.

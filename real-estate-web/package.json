@@ -1,0 +1,55 @@
+{
+  "name": "real-estate-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A modern real estate web application built with Next.js 15, TypeScript, and Tailwind CSS. Features property listings for sale and rent, advanced search, localization support (Thai/English), and responsive design.",
+  "keywords": [
+    "real-estate",
+    "property",
+    "nextjs",
+    "typescript",
+    "tailwindcss",
+    "react",
+    "real-estate-listings",
+    "property-search",
+    "localization",
+    "thai",
+    "english"
+  ],
+  "homepage": "https://github.com/your-username/real-estate-web#readme",
+  "bugs": {
+    "url": "https://github.com/your-username/real-estate-web/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/real-estate-web.git"
+  },
+  "license": "MIT",
+  "author": "Your Name <your.email@example.com>",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "i18next": "^25.3.6",
+    "i18next-resources-to-backend": "^1.2.1",
+    "next": "15.4.6",
+    "next-i18next": "^15.4.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-i18next": "^15.6.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
